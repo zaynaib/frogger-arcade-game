@@ -1,5 +1,5 @@
 # Udacity Classic Arcade Game
-===============================
+
 This is a take on the classic 1981 arcade game Frogger.
 DON'T GET CRUSHED!
 
